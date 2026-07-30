@@ -5,7 +5,7 @@
 I translate population-scale and multi-omics data into actionable biological insight. My work spans **statistical genetics, functional genomics, and machine learning**, from raw variant calling and differential expression to interpretable models and clinical biomarker validation, built on reproducible HPC pipelines.
 
 - Recently completed my **M.S. in Bioinformatics Data Science** at the University of Delaware (GPA 3.9).
-- Continuing **bioinformatics research at the Children's Hospital of Philadelphia (CHOP)**, studying mtDNA predictors of preterm birth across maternal cohorts.
+- Worked in **bioinformatics research at the Children's Hospital of Philadelphia (CHOP)**, studying mtDNA predictors of preterm birth across maternal cohorts.
 - Seeking **Bioinformatics Analyst / Computational Biology** roles.
 
 ---
